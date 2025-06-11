@@ -1,0 +1,22 @@
+h2{
+ color: orange;
+ }
+  body{
+ background-color: #020b02;
+ color: rgb(233, 246, 50);
+ font-family:  "Alumni Sans SC", sans-serif;;
+ text-align: center;
+  ul {
+ list-style-position: inside; 
+}
+ }
+  header{
+ border-bottom: 1px solid grey;
+ }
+  footer{ 
+border-top: 1px solid grey;
+ }
+  img {
+ width: 650px; 
+height: 200px; 
+}
